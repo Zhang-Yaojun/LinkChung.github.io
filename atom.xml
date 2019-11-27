@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-11-27T08:31:34.145Z</updated>
+  <updated>2019-11-27T08:48:11.254Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,21 +17,44 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>test</title>
+    <link href="http://yoursite.com/2019/11/27/test/"/>
+    <id>http://yoursite.com/2019/11/27/test/</id>
+    <published>2019-11-27T08:45:28.000Z</published>
+    <updated>2019-11-27T08:48:11.254Z</updated>
+    
+    <content type="html"><![CDATA[<p>! [ 这里输入图片描述] ( test/hua.png )<br><img src="/2019/11/27/test/hua.png" alt="house"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;! [ 这里输入图片描述] ( test/hua.png )&lt;br&gt;&lt;img src=&quot;/2019/11/27/test/hua.png&quot; alt=&quot;house&quot;&gt;&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>测试</title>
     <link href="http://yoursite.com/2019/11/27/%E6%B5%8B%E8%AF%95/"/>
     <id>http://yoursite.com/2019/11/27/%E6%B5%8B%E8%AF%95/</id>
     <published>2019-11-27T00:50:00.000Z</published>
     <updated>2019-11-27T08:31:34.145Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="测试"><a href="#测试" class="headerlink" title="测试"></a>测试</h2><p>123</p><img src="/.com//hua.png" class="[house]"><p><img src="/.com//hua.png" alt="house"></p><p><img src="/.com//hua.png" alt="house"></p>]]></content>
+    <content type="html"><![CDATA[<h2 id="测试"><a href="#测试" class="headerlink" title="测试"></a>测试</h2><p>123</p><img src="/.com/hua.png" class="[house]"><p><img src="/2019/11/27/%E6%B5%8B%E8%AF%95/hua.png" alt="house"></p><p><img src="/.com/hua.png" alt="house"></p>]]></content>
     
     <summary type="html">
     
       
       
         &lt;h2 id=&quot;测试&quot;&gt;&lt;a href=&quot;#测试&quot; class=&quot;headerlink&quot; title=&quot;测试&quot;&gt;&lt;/a&gt;测试&lt;/h2&gt;&lt;p&gt;123&lt;/p&gt;
-&lt;img src=&quot;/.com//hua.png&quot; class=&quot;[house]&quot;&gt;
-&lt;p&gt;&lt;img src=&quot;/.com/
+&lt;img src=&quot;/.com/hua.png&quot; class=&quot;[house]&quot;&gt;
+&lt;p&gt;&lt;img src=&quot;/2019/1
       
     
     </summary>
