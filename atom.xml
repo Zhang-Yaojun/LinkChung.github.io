@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://linkchung.github.io/"/>
   <updated>2019-11-27T08:48:11.254Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://linkchung.github.io/</id>
   
   <author>
     <name>Link</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>test</title>
-    <link href="http://yoursite.com/2019/11/27/test/"/>
-    <id>http://yoursite.com/2019/11/27/test/</id>
+    <link href="https://linkchung.github.io/2019/11/27/test/"/>
+    <id>https://linkchung.github.io/2019/11/27/test/</id>
     <published>2019-11-27T08:45:28.000Z</published>
     <updated>2019-11-27T08:48:11.254Z</updated>
     
@@ -41,8 +41,8 @@
   
   <entry>
     <title>测试</title>
-    <link href="http://yoursite.com/2019/11/27/%E6%B5%8B%E8%AF%95/"/>
-    <id>http://yoursite.com/2019/11/27/%E6%B5%8B%E8%AF%95/</id>
+    <link href="https://linkchung.github.io/2019/11/27/%E6%B5%8B%E8%AF%95/"/>
+    <id>https://linkchung.github.io/2019/11/27/%E6%B5%8B%E8%AF%95/</id>
     <published>2019-11-27T00:50:00.000Z</published>
     <updated>2019-11-27T08:31:34.145Z</updated>
     
@@ -65,8 +65,8 @@
   
   <entry>
     <title>第一篇博客</title>
-    <link href="http://yoursite.com/2019/11/26/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
-    <id>http://yoursite.com/2019/11/26/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</id>
+    <link href="https://linkchung.github.io/2019/11/26/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://linkchung.github.io/2019/11/26/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</id>
     <published>2019-11-26T10:44:00.000Z</published>
     <updated>2019-11-27T00:49:06.027Z</updated>
     
@@ -88,8 +88,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2019/11/26/hello-world/"/>
-    <id>http://yoursite.com/2019/11/26/hello-world/</id>
+    <link href="https://linkchung.github.io/2019/11/26/hello-world/"/>
+    <id>https://linkchung.github.io/2019/11/26/hello-world/</id>
     <published>2019-11-26T07:52:37.946Z</published>
     <updated>2019-11-26T07:52:37.946Z</updated>
     
