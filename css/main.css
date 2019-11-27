@@ -636,6 +636,7 @@ pre .javascript .function {
   border-top: 3px solid transparent;
   flex-grow: 1;
   list-style-type: none;
+  border-radius: 0 0 0 0;
 }
 @media (max-width: 413px) {
   .post-body .tabs ul.nav-tabs li.tab,
@@ -644,6 +645,12 @@ pre .javascript .function {
     border-left: 3px solid transparent;
     border-right: 1px solid transparent;
     border-top: 1px solid transparent;
+  }
+}
+@media (max-width: 413px) {
+  .post-body .tabs ul.nav-tabs li.tab,
+  .tabs-comment ul.nav-tabs li.tab {
+    border-radius: 0;
   }
 }
 .post-body .tabs ul.nav-tabs li.tab a,
@@ -687,6 +694,7 @@ pre .javascript .function {
 .tabs-comment .tab-content .tab-pane {
   border: 1px solid #ddd;
   padding: 20px 20px 0 20px;
+  border-radius: 0;
 }
 .post-body .tabs .tab-content .tab-pane:not(.active),
 .tabs-comment .tab-content .tab-pane:not(.active) {
@@ -696,13 +704,23 @@ pre .javascript .function {
 .tabs-comment .tab-content .tab-pane.active {
   display: block;
 }
+.post-body .tabs .tab-content .tab-pane.active:nth-of-type(1),
+.tabs-comment .tab-content .tab-pane.active:nth-of-type(1) {
+  border-radius: 0 0 0 0;
+}
+@media (max-width: 413px) {
+  .post-body .tabs .tab-content .tab-pane.active:nth-of-type(1),
+  .tabs-comment .tab-content .tab-pane.active:nth-of-type(1) {
+    border-radius: 0;
+  }
+}
 .post-body .note {
+  border-radius: 3px;
   margin-bottom: 20px;
   padding: 15px;
   position: relative;
   border: 1px solid #eee;
   border-left-width: 5px;
-  border-radius: 3px;
 }
 .post-body .note h2,
 .post-body .note h3,
@@ -1150,7 +1168,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #f1ffc7;
+  background: #2270ff;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
