@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://linkchung.github.io/"/>
-  <updated>2019-11-27T09:32:49.967Z</updated>
+  <updated>2019-11-28T09:15:22.773Z</updated>
   <id>https://linkchung.github.io/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="https://linkchung.github.io/2019/11/27/test/"/>
+    <id>https://linkchung.github.io/2019/11/27/test/</id>
+    <published>2019-11-27T08:45:28.000Z</published>
+    <updated>2019-11-28T09:15:22.773Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/2019/11/27/test/hua.png" alt="house"><br>123456</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;/2019/11/27/test/hua.png&quot; alt=&quot;house&quot;&gt;&lt;br&gt;123456&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+      <category term="测试" scheme="https://linkchung.github.io/categories/%E6%B5%8B%E8%AF%95/"/>
+    
+    
+      <category term="hexo" scheme="https://linkchung.github.io/tags/hexo/"/>
+    
+      <category term="测试" scheme="https://linkchung.github.io/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
   
   <entry>
     <title>测试</title>
