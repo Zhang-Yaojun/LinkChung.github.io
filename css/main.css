@@ -302,10 +302,10 @@ td {
   border-bottom-width: 1px;
 }
 .btn {
-  background: #222;
+  background: #fff;
   border: 2px solid #222;
   border-radius: 0;
-  color: #fff;
+  color: #222;
   display: inline-block;
   font-size: 0.875em;
   line-height: 2;
@@ -317,9 +317,9 @@ td {
   transition-timing-function: ease-in-out;
 }
 .btn:hover {
-  background: #fff;
+  background: #222;
   border-color: #222;
-  color: #222;
+  color: #fff;
 }
 .btn + .btn {
   margin: 0 0 8px 8px;
@@ -1175,7 +1175,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #ff631c;
+  background: #d030d1;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -1561,7 +1561,14 @@ pre .javascript .function {
   margin-top: 40px;
   text-align: center;
 }
-.use-motion .post-block,
+.use-motion .post-block {
+  opacity: 0;
+  margin-bottom: 60px;
+  padding: 25px;
+  box-shadow: 0 0 5px rgba(202,203,203,0.5);
+  -webkit-box-shadow: 0 0 5px rgba(202,203,203,0.5);
+  -moz-box-shadow: 0 0 5px rgba(202,203,204,0.5);
+}
 .use-motion .pagination,
 .use-motion .comments {
   opacity: 0;
@@ -1692,7 +1699,7 @@ pre .javascript .function {
 .post-eof {
   background: #ccc;
   height: 1px;
-  margin: 80px auto 60px;
+  margin: 20px auto 0;
   text-align: center;
   width: 8%;
 }
@@ -2316,13 +2323,6 @@ embed {
 .brand {
   color: $white;
 }
-.post {
-  margin-top: 60px;
-  margin-bottom: 60px;
-  padding: 25px;
-  -webkit-box-shadow: 0 0 5px rgba(202,203,203,0.5);
-  -moz-box-shadow: 0 0 5px rgba(202,203,204,0.5);
-}
 .site-subtitle {
   margin-top: 10px;
   font-size: 13px;
@@ -2344,6 +2344,7 @@ embed {
   margin-top: 60px;
   margin-bottom: 60px;
   padding: 25px;
+  box-shadow: 0 0 5px rgba(202,203,203,0.5);
   -webkit-box-shadow: 0 0 5px rgba(202,203,203,0.5);
   -moz-box-shadow: 0 0 5px rgba(202,203,204,0.5);
 }
